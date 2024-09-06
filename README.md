@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">- 🔭I’m looking for a job as a front-end developer.<br>- 📚 I'm currently learning <b>Go-lang, NextJs, and TypeScript</b><br>- ⚡ In my free time I 🔭 I’m working as a front-end developer.<br>- 📚 I'm currently learning Go-lang and TypeScript.<br>- ⚡ In my free time, I enjoy reading fiction novels and comics.<br>- 📫 How to reach me <b>hakimff622@gmail.com</b></p>
+<p align="left">- 🔭I’m looking for a job as a front-end developer.<br>- 📚 I'm currently learning <b>Go-lang, NextJs, and TypeScript</b><br>- ⚡ In my free time I 🔭 I’m working as a front-end developer.<br>- 📚 I'm currently learning Livewire.<br>- ⚡ In my free time, I enjoy reading fiction novels and comics.<br>- 📫 How to reach me <b>hakimff622@gmail.com</b></p>
 
 ###
 
