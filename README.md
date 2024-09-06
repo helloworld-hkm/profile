@@ -22,7 +22,9 @@
 
 ###
 
-<p align="left">- 🔭I’m looking for a job as a front-end developer.<br>- 📚 I'm currently learning <b>Go-lang, NextJs, and TypeScript</b><br>- ⚡ In my free time I 🔭 I’m working as a front-end developer.<br>- 📚 I'm currently learning Livewire.<br>- ⚡ In my free time, I enjoy reading fiction novels and comics.<br>- 📫 How to reach me <b>hakimff622@gmail.com</b></p>
+
+ 
+  - 📚 I'm currently learning Livewire.<br>- ⚡ In my free time, I enjoy reading fiction novels and comics.<br>- 📫 How to reach me <b>hakimff622@gmail.com</b></p>
 
 ###
 
@@ -41,11 +43,11 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/codeigniter/EF4223" height="40" alt="codeigniter logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  /> -->
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  /> -->
   <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
   <img width="12" />
